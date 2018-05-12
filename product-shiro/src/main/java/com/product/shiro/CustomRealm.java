@@ -1,4 +1,4 @@
-package com.product.shiro;
+﻿package com.product.shiro;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,7 +20,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 public class CustomRealm  extends AuthorizingRealm {
 	
-	//注入service
+	//注入service ssssss
 	/*@Autowired
 	private UserService userService;
 	
